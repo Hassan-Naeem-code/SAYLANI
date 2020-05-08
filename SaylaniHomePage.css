@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rgb(247, 248, 250);
+}
+
+.buttons a {
+    padding: 2px;
+    border: 1px solid lightgreen;
+    font-size: 0.9em;
+    border-radius: 0;
+}
+
+.buttons a:hover {
+    cursor: pointer;
+    text-shadow: 0.3px 0.3px 0.4px lightgreen;
+}
+
+.newCss {
+    background-color: rgb(49, 109, 195);
+}
+
+.NavCss {
+    background-color: rgb(247, 248, 250);
+}
+
+.CounterElement {
+    background-color: rgb(39, 85, 233);
+}
+
+.Line {
+    background-color: rgb(66, 121, 0);
+    width: 70px;
+    height: 2px;
+    display: block;
+    margin-left: 444px;
+}
+
+.Line1 {
+    background-color: rgb(66, 121, 0);
+    width: 70px;
+    height: 2px;
+    display: block;
+    margin-left: 598px;
+    margin-top: -3px;
+}
+
+.seperateLine {
+    width: 70px;
+    height: 3px;
+    background-color: rgb(66, 121, 0);
+    display: block;
+}
+
+.NavigationCss {
+    margin-top: 1.2em;
+    margin-left: 8.5em;
+}
+
+.CoComponetCSS {
+    font-size: 0.9em;
+    color: black;
+}
+
+.CoComponetCSS:hover {
+    color: whitesmoke;
+    background-color: rgb(49, 109, 195);
+    border-radius: 2.1em;
+}
+
+.ImageService {
+    width: 4.375em;
+    height: 4.25em;
+    margin: 0 auto;
+    margin-top: 1.7em;
+    cursor: pointer;
+}
+
+.CardHeading {
+    color: rgb(49, 109, 195);
+}
+
+.twoParts marquee {
+    height: 200px;
+}
+
+.mainD {
+    background-color: rgb(37, 39, 46);
+}
+
+ul li {
+    list-style: none;
+}
+
+.SocialIcons {
+    color: whitesmoke;
+    background-color: rgb(49, 109, 195);
+    border-radius: 0.7em;
+    border: 5px outset rgb(49, 109, 195);
+    font-size: 1em;
+    margin-right: 0.4em;
+    cursor: pointer;
+    margin-top: 0.3em;
+}
+
+.dev {
+    background-color: rgb(49, 109, 217);
+}
+
+.pro {
+    background-color: rgb(255, 255, 255);
+}
